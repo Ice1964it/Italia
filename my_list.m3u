@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Canale 5 HD
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Italia 1 HD
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",LA7 HD
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY", NOVE
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY", Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY", Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY", Warner TV
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY", Giallo
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY", K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY", Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY", DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY", HGTV
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY", Motor Trend
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/93/Logo_Deejay.svg/512px-Logo_Deejay.svg.png" group-title="ITALY",Deejay TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="ITALY",70-80 TV (1080P)
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",RTL 102.5 Best (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="ITALY",Rai 1 (720p)
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai 2 HD
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/IIqn1oG.jpg" group-title="ITALY",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/0FjxXU9.png" group-title="ITALY",Rai Movie (1080p)
+http://188.60.179.180:8000/play/xxRaiMOviexx?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai News 24 HD
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Rai Sport 2
+http://originstream12.rai.it/italy/raisport2_1200/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai Storia HD
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rete 4 HD
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="SWISS",RSI La 1 (720p)
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="SWISS",RSI La 2 (720p)
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8?checkedby:iptvcat.com
+
+
