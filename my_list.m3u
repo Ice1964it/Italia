@@ -18,6 +18,15 @@ https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8?check
 #EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/22755de84aff978c0cda2ff7af7e59a214bf2aca59ccfc78202d7bf86e2b4e5f/68747470733a2f2f692e696d6775722e636f6d2f4b3879357138782e706e67" group-title="RAI",Rai Storia HD
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/4e809b41583559e0063c6eb05a3aa3b6d3610e73b5ba8e272a22fb087dd6c74c/68747470733a2f2f692e696d6775722e636f6d2f58466b5a5266762e706e67" group-title="RAI",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5" group-title="RAI",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/22755de84aff978c0cda2ff7af7e59a214bf2aca59ccfc78202d7bf86e2b4e5f/68747470733a2f2f692e696d6775722e636f6d2f4b3879357138782e706e67" group-title="RAI",Rai Storia Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5
+
 #EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/2ad25daae0c2ed18b83c7fc45bc61a7ba53cb93e3d17808c210b6b694f01545b/68747470733a2f2f692e696d6775722e636f6d2f703659646952312e706e67" group-title="MEDIASET",Canale 5 HD
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8?checkedby:iptvcat.com
 
@@ -29,6 +38,9 @@ https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8?checkedby
 
 #EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/c955b1572faece8047951d3fc6f5139153964a7859fc09723dd24fe87cb63c21/68747470733a2f2f692e696d6775722e636f6d2f4639306d7053612e706e67" group-title="MEDIASET",LA7 HD
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/cd4e13b91937250c3f5b4b999494a8a6dcccbc0da8037fec9f95b1b2c21460fc/68747470733a2f2f692e696d6775722e636f6d2f78766f48564f552e706e67" group-title="MEDIASET",TV 8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/cb2926d45c47c02ffb0d0bd7bc08fb208b2770508574bc44ec13a1973527bb99/68747470733a2f2f692e696d6775722e636f6d2f487037323352552e706e67" group-title="MEDIASET", NOVE
 https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
@@ -42,10 +54,52 @@ https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/d3b0509e3497c086d78233e2c8b960e50a7308af40bdfdaa650e6e9f2927e5db/68747470733a2f2f692e696d6775722e636f6d2f656d4c4e4330552e706e67" group-title="MEDIASET", HGTV
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="SWISS",RSI La 1 (720p)
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/a8e1f7bd8467fd49fff3cee6d98b3f465482c83f54829696d12a16241466e9cc/68747470733a2f2f692e696d6775722e636f6d2f497431336a77582e706e67" group-title="MEDIASET",20 Mediaset Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/3837cedc54c0387ec6ee7aaaca207e4205b4ed9301a6ee6137c8beef52a01bd9/68747470733a2f2f692e696d6775722e636f6d2f49787a314259332e706e67" group-title="MEDIASET",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/b5e699e40d3bf2f5733f3a1b8f7896b3cea26e285c75b6f332140ac06d143d13/68747470733a2f2f692e696d6775722e636f6d2f63506c754630332e706e67" group-title="MEDIASET",Cielo Ⓖ
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/15380f6a150004229c107274f2cd91304d12ffe8b59a974465c66143bfb767a5/68747470733a2f2f692e696d6775722e636f6d2f7932506450434b2e706e67" group-title="MEDIASET",27 Twentyseven Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/8f9c8cdfcb110efbc7aa052cd7631bc26865d89d13d635bc7ca0f80004dfb790/68747470733a2f2f692e696d6775722e636f6d2f6b685077656f6b2e706e67" group-title="MEDIASET",La7 Cinema
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/5504481759c50eb625be4c1e69af5d5590fe1e6da983301448e838979f538b1c/68747470733a2f2f692e696d6775722e636f6d2f59796c647768492e706e67" group-title="MEDIASET",Cine34 Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/3f68b868ab8990ce9f5fb6c16736a6e11006d009be82894f869e3c0999438efc/68747470733a2f2f692e696d6775722e636f6d2f4d34736d7170462e706e67" group-title="MEDIASET",Focus Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/a22ce0f553a8aa6704b21630456c934b217f2e4f48eaa81194992c836eea5534/68747470733a2f2f692e696d6775722e636f6d2f5246497776394f2e706e67" group-title="MEDIASET",Top Crime Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/263d21dca4b999a1c4ae1f7317fcd9d94efd387b34c158d7bd97b3762e2149ba/68747470733a2f2f692e696d6775722e636f6d2f6d4d386c6f706f2e706e67" group-title="MEDIASET",Mediaset Extra Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/2dbf28c3b9721f4e4f2863afa45a81baeaa51c771a3240c2f09d103e7965ec2f/68747470733a2f2f692e696d6775722e636f6d2f61584155794c4e2e706e67" group-title="MEDIASET",Travel TV 
+https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/8fda2171484e231c5ff7ccb39e82b5ea2fc61b4a000422106bcf6048e3cba2af/68747470733a2f2f692e696d6775722e636f6d2f713464334461682e706e67" group-title="INFORMAZIONE",Sky TG24 Ⓖ
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/6f57e57f84bd8b901e3d8a8ecfc9e131e053e6ff39257c4c4a4728f32856c10e/68747470733a2f2f692e696d6775722e636f6d2f786175745644382e706e67" group-title="INFORMAZIONE",TGCOM 24 Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/266abf22552fb674953f47bd6227ae3e908ad665c93349870a35f6459efdace1/68747470733a2f2f692e696d6775722e636f6d2f7873476c6a73622e706e67" group-title="SPORT",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/7dbbd8621c8cc2836116327397ccd386c59f78faca2ae848e3647d7ecedf395c/68747470733a2f2f692e696d6775722e636f6d2f477a73506c62582e706e67" group-title="SPORT",Super Tennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="SWISS",RSI La 1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="SWISS",RSI La 2 (720p)
+#EXTINF:0 tvg-country="CH" tvg-logo="" group-title="SWISS",RSI La 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/0c4206c9f929ae6ab057687487311d2007d20f615496118a64f083d9410c5222/68747470733a2f2f692e696d6775722e636f6d2f6936304f5972392e706e67" group-title="ITALY", Food Network
@@ -75,14 +129,21 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/p
 #EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/b42ada6f15ce2f4ffe95465e601ce7338ee07daa3d6f1024fce3df16cd441b6b/68747470733a2f2f692e696d6775722e636f6d2f726c614b48366b2e706e67" group-title="MUSICA",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/aa73e73ef9d00ce5fd449847cad22719f140cfbea0200d751ea58d003bcb6e68/68747470733a2f2f692e696d6775722e636f6d2f37496d334849312e706e67" group-title="MUSICA",Virvin Radio
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/aa73e73ef9d00ce5fd449847cad22719f140cfbea0200d751ea58d003bcb6e68/68747470733a2f2f692e696d6775722e636f6d2f37496d334849312e706e67" group-title="MUSICA",Virgin Radio
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="SPORT",Rai Sport 2
 http://originstream12.rai.it/italy/raisport2_1200/master.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/266abf22552fb674953f47bd6227ae3e908ad665c93349870a35f6459efdace1/68747470733a2f2f692e696d6775722e636f6d2f7873476c6a73622e706e67" group-title="SPORT",Rai Sport HD
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/1f244483565e28a02ead1b099c48706b5f7c7ddda4e9831af0dacb13a33ff98b/68747470733a2f2f692e696d6775722e636f6d2f345643454a754a2e706e67" group-title="MUSICA",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/7dbbd8621c8cc2836116327397ccd386c59f78faca2ae848e3647d7ecedf395c/68747470733a2f2f692e696d6775722e636f6d2f477a73506c62582e706e67" group-title="SPORT",Super Tennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/a549a8ea2989ce53a3b20def336f891e1d4e6eb96e7deaff1c3774726a082dd8/68747470733a2f2f692e696d6775722e636f6d2f33544d4d586d532e706e67" group-title="MUSICA",Radio Montecarlo TV Ⓖ
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/412904cc3bfa4b0a60490a881b11aa4aef6d648e9829944e37ba223fbf4b7b1a/68747470733a2f2f692e696d6775722e636f6d2f4a354e3946375a2e706e67" group-title="MUSICA",Radio Freccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="MEDIASET",Gambero Rosso
+https://gamberorosso.tv/live/
+
