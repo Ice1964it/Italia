@@ -24,7 +24,7 @@ https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8?check
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="MEDIASET",Italia 1 HD
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="MEDIASET",Rete 4 HD
+#EXTINF:0 tvg-country="IT" tvg-logo="https://camo.githubusercontent.com/8f6b3c8bf2b19448e62dbeb638fcd63b1366cafbc4c16aa9a3c3927be33cc196/68747470733a2f2f692e696d6775722e636f6d2f47577832466b6c2e706e67" group-title="MEDIASET",Rete 4 HD
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="MEDIASET",LA7 HD
