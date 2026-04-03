@@ -59,7 +59,7 @@ http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IT" tvg-logo="https://i.imgur.com/0FjxXU9.png" group-title="ITALY",Rai Movie (1080p)
 http://188.60.179.180:8000/play/xxRaiMOviexx?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="SPORT",Super Tennis
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Super Tennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="ITALY",Rai News 24 HD
